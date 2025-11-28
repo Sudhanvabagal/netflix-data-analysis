@@ -1,16 +1,18 @@
-# Netflix Data Analysis (Beginner Project)
+# Netflix Data Analysis Project
 
-This project explores a Netflix dataset using Excel and basic analytics. 
-I uploaded the dataset here and will continue adding analysis, charts, and code as I progress.
+This is a beginner-friendly data analysis project using a Netflix dataset. 
+I'm using this project to learn GitHub, explore data, and build my analytics portfolio.
 
-## Files
-- netflix_data.xlsx — main dataset
+## What’s in this project
+- 📊 netflix_data.xlsx — raw dataset
+- 📝 Analysis notebook coming soon
 
-## Tools Used
+## Tools I plan to use
 - Excel
-- (Later: Python, Jupyter Notebook)
+- Jupyter Notebook (Python)
+- Pandas, Matplotlib (later)
 
-## Purpose
-- Practice GitHub
-- Learn how to upload files
-- Start building a data analytics portfolio
+## What I want to learn from this project
+- How to upload files to GitHub
+- How to organize a project
+- How to clean and visualize data
