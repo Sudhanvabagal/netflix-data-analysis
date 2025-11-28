@@ -13,6 +13,5 @@ I'm using this project to learn GitHub, explore data, and build my analytics por
 - Pandas, Matplotlib (later)
 
 ## What I want to learn from this project
-- How to upload files to GitHub
 - How to organize a project
 - How to clean and visualize data
